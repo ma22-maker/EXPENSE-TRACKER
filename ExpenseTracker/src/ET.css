@@ -1,0 +1,16 @@
+.track{
+    
+    font-family: "Georgia, Cambria","sans-serif","Times New Roman", Times;
+    font-size: 60px;
+    color: #E9B824;
+    
+}
+.repeat{
+    font-family: "Times","Times New Roman";
+    font-size: 80px;
+    color: #D83F31;
+}
+.button{
+    margin: 12px;
+    background-color: #219C90;;
+}
